@@ -1,0 +1,34 @@
+gameplay
+you are in a station
+you can see a couple of stations ahead
+you can take one of the mass transports that connect the stations
+but you have to wait for it to arrive
+you search for cheap drug sellers
+when you have drugs, sell them to high paying consumers
+you have to eat, eating is not cheap
+when you are in a big city, eating is prohibitly costly
+manage your backpack space
+
+worldbuilding
+there is chaos in the travel business.
+many railway companies are striving to stay alive.
+they fight each other to control the smallest slice of the network.
+alternative travel means, like taxis, ferries, bus, are troubled in the same way.
+train pirates disrupt services and reroute cargo.
+guerrilla forces undermine the infrastructure.
+fuel is very cheap, running at scale transport never had been so fruitful.
+trains are either late, very late or cancelled.
+
+a smuggler tale
+you buy from the production and sell to the consumer.
+the trouble is getting back and forth alive.
+you have to eat, but in some places it's way too expensive.
+
+initial thoughs
+i think a vertical slice of the game is not very complex.
+complexity comes later in the scale of the map, which could be procedural.
+it would need a graph.
+trains and other transit means
+economy simulation (variable drugs and food prices)
+survival mechanics
+2d interface
